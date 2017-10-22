@@ -1,2 +1,2 @@
-# fritzing-parts
-Componentes adicionais do Fritzing
+# Fritzing parts
+Nesse repositório você encontrará alguns sensores adicionais para o software Fritzing.
